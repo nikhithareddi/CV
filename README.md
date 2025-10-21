@@ -18,3 +18,5 @@ It's a task from Roadmaps website A simple CV one page.
 2. Open the folder in Visual Studio Code.
 
 3. Right-click the index.html file and select “Open with Live Server”.
+
+Project URL : https://roadmap.sh/projects/single-page-cv
